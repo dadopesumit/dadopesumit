@@ -13,8 +13,7 @@ When I'm not coding, you can find me:
 
 ---
 
-**Portfolio:** [https://ullaskunder.tech/](https://ullaskunder.tech/)
-**Blog:** [https://ullaskunder.tech/blogs](https://ullaskunder.tech/blogs)
+**Portfolio:** [https://dadopesumit.github.io/sumit/](https://dadopesumit.github.io/sumit/)
 
 #### Chinese Anime I'm Following:
 
