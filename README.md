@@ -9,10 +9,7 @@ Hello! I'm <a href="https://ullaskunder.tech" title="Visit Ullas Kunder's Portfo
 
 When I'm not coding, you can find me:
 
-* Writing blogs ✍️
-* Watching anime 🎬
-* Learning Japanese (well I'm trying)
-* Figuring out how to make things work — whether it’s tech, tools, or tiny ideas 🤔
+*
 
 ---
 
@@ -21,18 +18,9 @@ When I'm not coding, you can find me:
 
 #### Chinese Anime I'm Following:
 
-* **Wanmei Shijie (Perfect World)**
-* **Shrouding the Heavens** / **Zhe Tian** / 遮天
-* **Renegade Immortal (Xian Ni)** / 仙逆
-* **Battle Through The Heavens - 5th Season** / 斗破苍穹年番
-* **A Mortal's Journey to Immortality - Season 2** / 凡人修仙传 年番 第二部 
+* **XYZ**
 ...
 
-#### Japanese Anime I'm Following:
-
-* **Gachiakuta**
-* **One Piece**
-* **Kaiju No. 8 - Season 2**
 ...
 
 ### Philosophy
