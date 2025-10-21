@@ -3,7 +3,7 @@ Hey there, Thanks for visiting my profile...
 
 ![Hello](https://github.com/user-attachments/assets/756f6f13-5ea8-46d2-8ca1-6d3632b01db1)
 
-Hello! I'm <a href="https://ullaskunder.tech" title="Visit Ullas Kunder's Portfolio">Ullas</a>, a software engineer based in India with a strong passion for open source and building meaningful projects. I’ve honed my skills through hands-on experience and a deep commitment to continuous learning.
+Hello! I'm <a href="https://ullaskunder.tech" title="Visit Ullas Kunder's Portfolio">Sumit</a>, a software engineer based in India with a strong passion for open source and building meaningful projects. I’ve honed my skills through hands-on experience and a deep commitment to continuous learning.
 
 ### Interests
 
